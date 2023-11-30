@@ -8,8 +8,9 @@ Possuo também o curso técnico em eletroeletrônica pelo CEFET-MG.
 👀  Tenho interesse em desenvolvimento backend, automatizações, Ciência de dados, entre outras coisas que vou me aventurar a aprender.
 
 🌱 Atualmente estou aprendendo e praticando automatizações com o python (pyautogui, selenium, scrapy, entre outros), análise de dados.
-Estou fazendo duas formações: - Data Science Python (Alura e DIO(;
-                              - Formação AWS Cloud Practitioner Certification (DIO)
+Estou fazendo duas formações: 
+  - Formação Data Science Python (Alura e DIO);
+  - Formação AWS Cloud Practitioner Certification (DIO)
 
 Fiquem à vontade para dar uma olhada nos meus repositórios.
 
