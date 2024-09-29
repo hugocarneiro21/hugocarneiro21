@@ -1,15 +1,17 @@
   #### Olá! eu sou o Hugo Carneiro 👋🏽
-Tenho 32 anos, atualmente estou cursando Engenharia de controle e automação no 10°. 
+Tenho 33 anos, atualmente estou cursando Engenharia de controle e automação no 10°. 
 No entanto, resolvi migrar para a área de tecnologia (Desenvolvimento) no ano de 2022 na linguagem c#, mas quando conheci a linguagem Python(2023), eu me encontrei e vi que é o ramo que quero seguir, pois cada vez que aprendo algo, fico mais animado e com mais vontade de resolver desafios.
 
-Por esse motivo busco uma oportunidade de aprimorar meus conhecimentos e ingressar de vez no mundo DEV.
+Hoje atuo na Localiza&CO arimorando meus conhecimentos. Durante minha trajetória na empresa, a área de dados está me encontrando cada vez mais, onde estou tendo desafios para analisar criteriosamente bases de dados, transformar esses dados em insights para encontrarmos melhorias para o Setor, realizando automações e visualizações no Powe BI. 
+
+Por esse motivo busco uma oportunidade de aprimorar meus conhecimentos e ingressar de vez no mundo DEV/Data.
 Possuo também o curso técnico em eletroeletrônica pelo CEFET-MG.
 
 👀  Tenho interesse em desenvolvimento backend, automatizações, Ciência de dados, entre outras coisas que vou me aventurar a aprender.
 
 🌱 Atualmente estou aprendendo e praticando automatizações com o python (pyautogui, selenium, scrapy, entre outros), análise de dados.
 Estou fazendo duas formações: 
-  - Formação Data Science Python (Alura e DIO);
+  - Formação Data Science Python (DSA e DIO);
   - Formação AWS Cloud Practitioner Certification (DIO)
 
 👇🏽 Você pode me encontrar clicando nas imagens abaixo 👇🏽
